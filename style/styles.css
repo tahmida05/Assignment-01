@@ -55,3 +55,37 @@ color: white;
 border: none;
 
 }
+/* sec-2 */
+.des-1{
+  font-size: 16px;
+font-weight: 400;
+color: rgba(14, 14, 14, 0.7);
+}
+.flex-2{
+  display: flex;
+  gap: 24px;
+}
+.icon{
+  justify-content: start;
+width: 62px;
+height: 62px;
+}
+.card-1{
+  box-sizing: border-box;
+border-radius: 16px;
+padding: 32px;
+background: rgba(84, 144, 245, 0.2);
+}
+.card-2{
+  box-sizing: border-box;
+border-radius: 16px;
+padding: 32px;
+background: rgb(198, 228, 214);
+}
+.card-3{
+  box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(247, 235, 207);
+padding: 24px;
+}

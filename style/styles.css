@@ -47,7 +47,7 @@ img{
   font-size: 46px;
 font-weight: 630;
 }
-.button-1{
+.button-1,.button-01{
   border-radius: 8px;
   padding: 17px 34px 17px 34px;
 background: rgb(0, 106, 80);
@@ -87,5 +87,95 @@ background: rgb(198, 228, 214);
 border-radius: 16px;
 
 background: rgb(247, 235, 207);
-padding: 24px;
+  padding: 24px;}
+.button-1{
+  border-radius: 8px;
+  color: white;
+    background: rgb(84, 144, 245);
+    border: none;
+    padding: 11px 20px 11px 20px;
+}
+.button-2{
+  border-radius: 8px;
+color: white;
+  background: rgb(9, 161, 92);
+  border: none;
+  padding: 11px 20px 11px 20px;
+}
+.button-3{
+  border-radius: 8px;
+  color: white;
+    background: rgb(255, 194, 57);
+    border: none;
+    padding: 11px 20px 11px 20px;
+}
+/* dr-unus-speech */
+.style-jpg{
+  height: 50px;
+  width: 50px;
+}
+.style-p{
+  justify-content: start;
+}
+.dr-unus-speech{
+padding: 48px 24px 48px 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+margin-top: 35px;
+}
+/* recent news */
+.satelite-1{
+  width: 400px;
+  height: 300px;
+  border-radius: 24px;
+}
+.al-jazeera{
+  height: 40px;
+  width: 130px;
+}
+.card-01{
+  display: flex;
+  gap: 20px;
+padding: 48px;
+background-color: white;
+border-radius: 24px;
+}
+.card-02{
+  display: flex;
+  gap: 20px;
+padding: 48px;
+background-color: white;
+border-radius: 24px;
+margin-top: 20px;
+}
+.card-03{
+  display: flex;
+  gap: 20px;
+padding: 48px;
+background-color: white;
+border-radius: 24px;
+margin-top: 20px;
+
+}
+/* donation */
+.donation{
+  width: 230px;
+  height: 120px;
+  padding: 30px;
+  border-radius: 16px;
+  box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+font-size: 35px;
+font-weight: 600;
+}
+.btn-2{
+  background-color: rgb(198, 228, 214);
+}
+.position{
+  gap: 22px;
 }

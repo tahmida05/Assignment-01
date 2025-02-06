@@ -173,6 +173,11 @@ background: rgb(255, 255, 255);
 font-size: 35px;
 font-weight: 600;
 gap: 24px;
+cursor: pointer;
+
+}
+nav div :hover{
+  background-color: lightcoral;
 }
 .btn-2{
   background-color: rgb(198, 228, 214);
@@ -193,4 +198,49 @@ text-align: center;
 .donation-button{
   margin-top: 28px;
 }
+/* last-sec */
+.last-sec{
+  border-radius: 24px;
+text-align: center;
+background: rgb(198, 228, 214);
+padding: 80px 100px 80px 100px;
+margin: 24px;
 
+}
+.input-2{
+  border-radius: 8px 0px 0px 8px;
+  width: 400px;
+  height: 25px;
+  padding: 18px 40px 18px 40px;
+border: none;
+background: rgb(255, 255, 255);
+}
+.subscribe{
+  width: 120px;
+height: 25px
+border: none;
+  color: white;
+  border-radius: 0px 8px 8px 0px;
+
+background: rgb(0, 106, 80);
+border: none;
+}
+.btn-input{
+  display: flex;
+  text-align: center;
+}
+.social{
+  height: 20px;
+  width: 20px;
+}
+.icons{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 480px;
+  margin-right: 200px;
+  margin-bottom: 30px;
+}
+.end{
+  text-align: center;
+  
+}
